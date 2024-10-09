@@ -4,7 +4,6 @@ public class Task4 {
         {
             count = count - 2;
             System.out.print(count + ", ");
-
         }
     }
 }
